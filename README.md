@@ -7,6 +7,7 @@ Hey, welcome <img src="https://media.giphy.com/media/BLy7N6MJNYCeMeuB18/giphy.gi
 
 - 👨🏽‍💻 I’m currently working on some projects :wink:;
 - 🌱 I’m currently perfectionning javascript and php; 
+- :hear_no_evil: 98% self-taugh
 
 ### Skills :
 <div>
