@@ -17,6 +17,7 @@ Hey, welcome <img src="https://media.giphy.com/media/BLy7N6MJNYCeMeuB18/giphy.gi
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/wordpress-%2300f.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>
 </div>
 <br/>
 
