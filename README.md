@@ -1,4 +1,4 @@
-Hey, welcome <img src="https://media.giphy.com/media/BLy7N6MJNYCeMeuB18/giphy.gif" width="25px">
+Hey, welcome <img src="https://media.giphy.com/media/BLy7N6MJNYCeMeuB18/giphy.gif" width="45px">
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="390" height="210" />
 
