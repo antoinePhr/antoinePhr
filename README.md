@@ -21,9 +21,9 @@ Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 ### Networks :
 <a href="https://www.linkedin.com/in/antoine-pauthier-0ba118196/" target="_blank">
-  <img align="left" alt="Pauthier Antoine" | LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Pauthier Antoine" | LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/antoine_phr/" target="_blank">
-  <img align="left" alt=Pauthier Antoine | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt=Pauthier Antoine | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
