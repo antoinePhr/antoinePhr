@@ -3,12 +3,12 @@ Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="490" height="310" />
 
 
-**About my self**
+**About my self :**
 
 - 👨🏽‍💻 I’m currently working on some projects :wink:;
 - 🌱 I’m currently perfectionning javascript and php; 
 
-### Skills
+### Skills :
 <div>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,7 +19,7 @@ Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </div>
 <br/>
 
-## Networks
+### Networks :
 <a href="https://www.linkedin.com/in/antoine-pauthier-0ba118196/" target="_blank">
   <img align="left" alt="Pauthier Antoine" | LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
